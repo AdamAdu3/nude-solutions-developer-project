@@ -1,0 +1,14 @@
+﻿.deleteButton {
+    background-image: url(../images/delete.png);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    /* put the height and width of your image here */
+    height: 24px;
+    width: 24px;
+    border: none;
+    vertical-align: top;
+}
+
+.deleteButton span {
+    display: none;
+}
