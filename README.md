@@ -1,4 +1,4 @@
-# Adam Robinson - Developer Project for nude solutions
+# Adam Robinson - Developer Project for Nude Solutions
 
 Contents limit insurance manager app built in VisualStudio 2022.
 
